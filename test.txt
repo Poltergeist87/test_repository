@@ -11,5 +11,7 @@ FE 4
 FE $
 T1
 T2
+FE 6
+FE 7
 Test 3
 
