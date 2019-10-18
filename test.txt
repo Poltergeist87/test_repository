@@ -9,6 +9,8 @@ FE 2
 Fe 3
 FE 4
 FE $
+T1
+T2
 FE 6
 FE 7
 Test 3
