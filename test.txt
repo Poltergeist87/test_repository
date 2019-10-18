@@ -8,5 +8,6 @@ FE 1
 FE 2
 Fe 3
 FE 4
+FE $
 Test 3
 
